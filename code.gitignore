@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.log
+data/           # 以后把大的 CSV/HDF5 数据放在这个文件夹里，不传 GitHub
